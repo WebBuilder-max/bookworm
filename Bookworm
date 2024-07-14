@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lobster&display=swap">
+        <link href="https://fonts.googleapis.com/css2?family=Ga+Maamli&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+        <title>Bookworm Bookshop </title>
+        <style>
+            body {
+    background-color: rgb(255,255,230);
+    display: flex;
+            flex-direction: column;
+            min-height: 100px;
+            margin: 0;
+}
+p {
+    font-family: 'Lobster', cursive;
+}
+h1, h3 {
+    text-align: center;
+    color: #27096c;
+    font-family: 'Ga Maamli', sans-serif;
+}
+h2 {
+   text-align: left;
+    color: #27096c;
+    font-family: 'Ga Maamli', sans-serif; 
+}
+.imprtnt {
+    font-style: normal;
+    font-weight: 400;
+    font-family: Times New Roman;
+}
+.brdr {
+    border: 5px solid rgb(0,0,10);
+}
+a:link {
+    color: rgb(0,0,255);
+}
+a:visited {
+    color: rgb(0,0,255);
+}
+a:hover {
+    color: rgb(255,0,0);
+}
+a:hover {
+    color: rgb(0,255,0);
+}
+#diff {
+    border-top: 5px solid rgb(0,0,10);
+    border-bottom: 5px solid rgb(0,0,10);
+    border-left: 5px solid rgb(0,0,10);
+    border-right: 5px solid rgb(0,0,10);
+}
+code {
+    font-family: monospace;
+}
+p.imprtnt {
+    font-family: Times New Roman;
+}
+marquee {
+    background-color: #cc0008e0;
+    font-family: Times New Roman;
+    scroll-behaviour: scroll;
+    scroll-snap-stop: always;
+    animation: marquee linear infinite;
+    color: rgb(255,255,255);
+}
+.footer {
+    position: absolute;
+    bottom: 100%;
+    width: 100%;
+    background-color: rgb(0,0,0);
+    padding: 10px;
+    text-align: center;
+}
+img.left {
+    float: left;
+    border: 7px solid rgb(255,255,230);
+}
+img.righ {
+    float: right;
+    border: 7px solid rgb(255,255,230);
+}
+ul {
+    font-family: 'Dancing Script', cursive;
+}
+hr {
+    border: 3px solid black;
+}
+ul.lat {
+    font-family: 'Lobster', cursive;
+}
+.s {
+   font-family: 'Ga Maamli', sans-serif; 
+}
+.content {
+            flex: 1; /* Allow the content to grow and take remaining space */
+            padding: 20px; /* Example padding */
+        }
+
+        #footer {
+            background-color: rgb(0,0,0);
+            text-align: center;
+            flex-shrink: 0;
+            colo
+        }
+        </style>
+    </head>
+    <body>
+        <div class="content">
+        <h1><u>Bookworm Bookshop</u></h1>
+        <section id="intro">
+            <h2>Why Bookworm?</h2>
+        <img src="shop.jpg" height="143" width="179" class="left">
+        <p>Welcome to "Bookworm Bookshop," a charming haven nestled in the heart of our community, where every book lover finds solace and inspiration. As you step through the inviting doorway, you're greeted by the soft aroma of aged paper and the comforting hush of shelves laden with literary treasures.The shop's interior is a symphony of warm wood tones and cozy reading nooks, inviting patrons to linger and explore. Sunlight streams through large windows, illuminating rows of neatly arranged books that span genres from classics to contemporary fiction, non-fiction to poetry.At "Bookworm Bookshop," we pride ourselves on curating a diverse collection that caters to every taste and curiosity. From bestsellers that grace the top lists to hidden gems waiting to be discovered, each book has been carefully selected to offer a rewarding reading experience.Our knowledgeable staff are passionate book enthusiasts who delight in sharing recommendations and engaging in lively discussions about literature. Whether you're seeking a gripping thriller to devour over the weekend or a thought-provoking memoir that resonates deeply, they are here to guide you with personalized suggestions.As you wander through the aisles, you'll notice special sections dedicated to local authors, highlighting the rich tapestry of talent within our community. These shelves celebrate the artistry and unique perspectives that enrich our cultural landscape.
+  <img src="in.jpg" class="righ" height="200" width="200">
+        "Bookworm Bookshop" isn't just a place to buy books; it's a gathering spot for like-minded individuals who cherish the written word. Our cozy reading corners beckon readers to sink into plush armchairs and lose themselves in captivating narratives, fostering a sense of belonging and camaraderie among book lovers.For those who prefer digital reads, we offer a curated selection of e-books and audiobooks that can be instantly accessed through our user-friendly digital library platform. 
+        <img src="outapp.jpg" height="200" width="200" class="left">
+        This ensures that everyone can enjoy their favorite stories in their preferred format.The ambiance at "Bookworm Bookshop" is enhanced by occasional literary events and author signings that draw book enthusiasts from near and far. These gatherings create a vibrant cultural hub where ideas flow freely and creativity thrives, fostering a deep appreciation for the written word.Children are warmly welcomed at "Bookworm Bookshop," where a dedicated corner is filled with whimsical picture books, engaging young adult novels, and educational resources that ignite young imaginations and instill a lifelong love of reading.Our commitment to sustainability is reflected in our eco-friendly practices, from using recycled materials for our packaging to promoting local publishers who prioritize environmental stewardship. We believe in making a positive impact on our planet while nurturing a love for literature. </p>
+   <p>"Bookworm Bookshop" is more than a retail space; it's a testament to the enduring power of stories to connect us, inspire us, and broaden our horizons. Whether you're a seasoned bibliophile or a casual reader discovering the joy of books, you'll find a welcoming haven where every visit promises new adventures between the pages.In addition to our extensive book collection, "Bookworm Bookshop" features a carefully curated selection of literary gifts and stationery items that make perfect presents for book lovers of all ages. From elegant bookmarks to literary-themed tote bags, each item is chosen with care to complement our love for books.Our commitment to excellence extends to our customer service, where every interaction is marked by warmth, attentiveness, and a genuine passion for sharing the magic of reading. Whether you're browsing our shelves in person or exploring our online store, you'll experience the same dedication to creating a memorable book-buying experience."Bookworm Bookshop" embraces the digital age with an intuitive online platform that allows customers to browse our entire inventory, place orders with ease, and have their favorite books delivered straight to their doorstep. We believe in making literature accessible to everyone, no matter where they are.At "Bookworm Bookshop," we celebrate diversity in literature by featuring voices from around the world and across different cultures. Our shelves are a mosaic of perspectives, offering readers the opportunity to explore new narratives and broaden their understanding of the human experience.We understand that books have the power to spark conversations and provoke thought. 
+   <img src="bench.jpg" height="200" width="200" class="righ">
+   That's why "Bookworm Bookshop" hosts book clubs and discussion groups that bring readers together to delve deeper into literary themes, fostering a sense of community and intellectual engagement.The charm of "Bookworm Bookshop" extends beyond its walls, as we actively participate in community outreach programs that promote literacy and support local schools and libraries. We believe in nurturing the next generation of readers and fostering a lifelong passion for learning.Located in a historic building that exudes character and charm, "Bookworm Bookshop" is not just a bookstore but a beloved landmark in our community. Our commitment to preserving the building's heritage is evident in every lovingly restored detail, creating a timeless atmosphere that welcomes visitors from near and far."Bookworm Bookshop" invites you to embark on a literary journey where every page turned reveals new possibilities and endless adventures. Whether you're seeking escape, enlightenment, or simply a quiet moment of reflection, our shelves are filled with stories waiting to be discovered and cherished.We invite you to visit "Bookworm Bookshop" and experience the magic for yourself. Lose yourself in the scent of ink and paper, feel the weight of a well-loved tome in your hands, and discover why books have the power to captivate hearts and minds across generations. </p>
+     </section>
+     <section id="op">
+     <h2>What we provide</h2>
+     <ul>
+         <li><dl>
+             <dt><b>A Huge variety of books</b></dt>
+             <dd>Bookworm Bookstore boasts a staggering variety of books that cater to every reader's taste and interest. Our shelves are lined with an extensive range of genres, ensuring there is something for everyone, from classic literature to contemporary bestsellers. Dive into gripping mysteries, explore fantastical realms of adventure, or delve into insightful non-fiction; our collection promises to captivate and inspire.
+
+Our passionate staff at Bookworm Bookstore are avid readers themselves, ready to assist you in finding your next favorite book or discovering hidden literary gems. Whether you're seeking a gift or simply exploring for leisure, our welcoming environment and diverse selection make us the perfect destination for book lovers of all ages. Experience the joy of browsing through our vast array of books at Bookworm Bookstore and uncover the endless possibilities waiting to be explored.</dd>
+         </li>
+         <li>
+             <dl>
+             <dt><b>Reading Nooks</b></dt>
+        <dd>Intimate corners with comfortable armchairs and small tables, perfect for customers to relax and read a book before purchasing.</dd></dl></li>
+        <li>
+            <dl><dt><b>Café Area</b></dt>
+        <dd>A cozy café space with tables and chairs, offering refreshments like coffee, tea, and light snacks.</dd></dl></li>
+            <li><dl><dt><b>Study Tables</b></dt>
+        <dd>Larger tables equipped with reading lamps and power outlets, ideal for customers who want to study, work remotely, or engage in group discussions.</dd></dl></li>
+            <li><dl><dt><b>Children’s Corner</b></dt>
+        <dd>Colorful bean bags or small chairs surrounded by shelves filled with children's books.</dd></dl></li>
+            <li><dl><dt><b>Event Space</b></dt>
+        <dd>A flexible area that can be rearranged for author readings, book clubs, or workshops.</dd></dl></li>
+            <li><dl><dt><b>Outdoor Seating</b></dd>
+        <dd>Weather-permitting, tables and chairs outside the entrance or in a garden area, allowing customers to enjoy reading or refreshments in the open air.</dd>
+    </dl>
+         </li>
+     </ul>
+     </section>
+     <hr>
+     <section id="olp">
+         <h2>Latest Books Collection</h2>
+         <ul class="lat">
+             <li><b>Long Island Compromise:</b> "Long Island Compromise" delves into the intricacies of political negotiation and personal sacrifice as it chronicles the journey of Senator Jonathan Miller through the turbulent landscape of American governance. Set against the backdrop of a nation grappling with ideological divides and societal upheaval, the book explores Miller's pivotal role in brokering a landmark bipartisan agreement that reshapes healthcare policy. As Miller navigates through ethical dilemmas and personal challenges, author Sarah Townsend intricately weaves together themes of leadership, integrity, and the complexities of compromise in the pursuit of greater societal good. Through vivid storytelling and nuanced character development, "Long Island Compromise" offers readers a compelling narrative that transcends politics, resonating with themes of resilience, empathy, and the enduring quest for common ground in a divided world.<br>
+             <a href="https://medium.com/@bridgetphira77/pdf-download-long-island-compromise-by-taffy-brodesser-akner-876be02e4fd1"><img src="island.jpg" height="350" width="233"><br>Get it now</a>
+             </li><hr>
+             <li><b>Driven: </b>"Driven" by Virat Kohli offers a compelling insight into the life and career of one of cricket's modern legends. Through this autobiography, Kohli takes readers on a journey from his early days of cricketing passion in Delhi to becoming the captain of the Indian national team. The book delves deep into his personal struggles, his relentless drive for excellence, and the pivotal moments that shaped his career. Kohli's candid narrative not only reveals his fierce determination on the field but also provides a glimpse into his thoughts on leadership, success, and the importance of mental toughness in sports. "Driven" is not just a story of cricketing achievements but also a testament to resilience and dedication, making it a must-read for fans of the sport and anyone inspired by tales of overcoming challenges to achieve greatness.<br><br>
+          <center><a href="https://books.google.co.in/books/about/Driven.html?id=UnvfEAAAQBAJ&redir_esc=y"><img src="driv.jpg" height="250" width="163"></a></center>
+             </li>
+         </ul>
+     </section>
+     </div>
+     <footer id="footer">
+         Copyright &copy Bookworm Bookshop. All rights reserved.
+     </footer>
+    </body>
+</html>
